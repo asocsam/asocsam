@@ -4,38 +4,12 @@
 
 🎓 **Current:** M.S. Cybersecurity Engineering @ Illinois Institute of Technology  
 🏆 **Certs:** CEH, Security+, AWS Academy Graduate  
-🔎 **Actively building:**  
-- Splunk and Elastic-based SIEM pipelines
-- Custom offensive tooling for bug bounty
-- Sigma detection rules and Splunk correlation searches
-- Cloud security automations using AWS Lambda and Terraform
+🔎 **Actively building:**                                              💡 **Recent Highlights:**                                      🌐 **Currently open to:**         
+- Splunk and Elastic-based SIEM pipelines                              -  Top 6% National Cyber League                                -  SOC Analyst / Security Engineer
+- Custom offensive tooling for bug bounty                              -  Bug bounty hunter with live program submissions             -  Detection Engineer
+- Sigma detection rules and Splunk correlation searches                -  CVE replication labs (Outlook NTLM leak, OpenSSH RCE)       -  Jr. Red Team / Penetration Tester
+- Cloud security automations using AWS Lambda and Terraform            -  Digital forensics using Volatility and Autopsy              -  Cloud Security Analyst 
 
-💡 **Recent Highlights:**
-- Top 6% National Cyber League
-- Bug bounty hunter with live program submissions
-- CVE replication labs (Outlook NTLM leak, OpenSSH RCE)
-- Digital forensics using Volatility and Autopsy
+📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/samman-chouhan) | [Email](mailto:24s.chouhan@gmail.com)   ⚡ Let's connect and build a secure future together!
 
-🌐 **Currently open to:**
-- SOC Analyst
-- Detection Engineer
-- Jr. Red Team / Penetration Tester
-- Cloud Security Analyst
-- Security Engineer
 
-📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/samman-chouhan) | [Email](mailto:24s.chouhan@gmail.com)
-
-🛠️ Check out my repositories below to see my work in action as I prepare for **January 2026 cybersecurity opportunities globally**.
-
----
-
-### 🛡️ **Pinned Repositories**
-✅ Blue Team & Detection Engineering  
-✅ Red Team & Offensive Security  
-✅ Cloud Security Projects  
-✅ SIEM Projects  
-✅ University Projects
-
----
-
-⚡ Let's connect and build a secure future together!
