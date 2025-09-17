@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Samman Chouhan
+# Hi 👋 I'm Samman  
 
-🚀 I'm a cybersecurity engineer passionate about detection engineering, offensive security, and cloud security automation.
+🎓 Master's in Cybersecurity Engineering @ IIT Chicago  
+🔐 Security Engineer | Cloud Security | Threat Detection | SIEM Engineering  
+🏆 Top 6% National Cyber League | CEH | Security+ | AWS Architect (in progress)  
 
-🎓 **Current:** M.S. Cybersecurity Engineering @ Illinois Institute of Technology  
-🏆 **Certs:** CEH, Security+, AWS Academy Graduate  
-🌐 **Currently open to:**         
--  Security Engineer
--  SOC Analyst 
--  Detection Engineer
--  Jr. Red Team / Penetration Tester
--  Cloud Security Analyst 
+## 🚀 Projects  
+- [Blue Team Detection](https://github.com/asocsam/blue-team-detection)  
+- [Cloud Security Automation](https://github.com/asocsam/cloud-security-projects)  
+- [SIEM Threat Detection](https://github.com/asocsam/SIEM-Projects-Dashboards)  
+- [Offensive Security Projects](https://github.com/asocsam/offensive-red-team-projects)  
 
-📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/samman-chouhan) | [Email](mailto:24s.chouhan@gmail.com)   ⚡ Let's connect and build a secure future together!
+## 🛠️ Tech  
+AWS | Splunk | Elastic | SentinelOne | Python | Terraform | Docker | Kubernetes  
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asocsam&show_icons=true&theme=tokyonight)  
