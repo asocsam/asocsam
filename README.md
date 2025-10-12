@@ -13,4 +13,3 @@
 ## 🛠️ Tech  
 AWS | Splunk | Elastic | SentinelOne | Python | Terraform | Docker | Kubernetes  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asocsam&show_icons=true&theme=tokyonight)  
